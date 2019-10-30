@@ -24,11 +24,11 @@ module PolishCalculator(S : StackADT) = struct
                 | s when is_a_number s -> S.push expressions (I (int_of_string s))
                 | op -> 
                     match op with
-                    | op when op = "+" -> S.push expressions (Plus (S.pop expressions , S.pop expressions))
-                    | op when op = "-" -> S.push expressions (Minus (S.pop expressions , S.pop expressions))
-                    | op when op = "*" -> S.push expressions (Per (S.pop expressions , S.pop expressions))
-                    | op when op = "/" -> S.push expressions (Div (S.pop expressions , S.pop expressions))
-                    | op when op = "**" -> S.push expressions (Pot (S.pop expressions , S.pop expressions))
+                    | "+" -> S.push expressions (Plus (S.pop expressions , S.pop expressions))
+                    | "-" -> S.push expressions (Minus (S.pop expressions , S.pop expressions))
+                    | "*" -> S.push expressions (Per (S.pop expressions , S.pop expressions))
+                    | "/" -> S.push expressions (Div (S.pop expressions , S.pop expressions))
+                    | "**" -> S.push expressions (Pot (S.pop expressions , S.pop expressions))
                     | _ -> raise BadPolishNotation
             ) elements;
             S.pop expressions
