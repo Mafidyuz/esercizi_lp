@@ -1,7 +1,9 @@
-module Graph = struct
+#use "GraphADT.mli";;
 
-    type 'a graph = Graph of ('a list) * ( ('a*'a) list ) 
+module SocialNetwork(G : GraphADT) = struct
 
-    let empty() = Graph([],[])
+    type individual = I of string;;
 
+    let are_friends a b = 
+        G.
 end;;
