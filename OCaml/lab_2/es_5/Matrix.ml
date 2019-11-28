@@ -1,4 +1,5 @@
 module Matrix = struct
+
     type matrix = M of (int list) list ;;
 
     let (==) a b = 
@@ -19,6 +20,34 @@ module Matrix = struct
             | [] -> Array.make length [] |> Array.to_list
         in function 
              M x -> M(transpose x);;
-        
+
+    let ( ** ) m1 m2  = 
+        let rec rpc r m2 = 
+            match r, m2 with
+            r, M (y::ys) -> List.fold_left (+) 0 (List.map2 (fun a b -> a * b) r y) :: rpc r (M ys)
+            | _ -> []
+        in let rec ( ** ) m1 m2 = 
+            match m1 with
+            M (x::xs) ->  rpc x (transpose m2) :: (M xs) ** m2
+            | _ -> []
+        in M (m1 ** m2);;
+    
+    let norm m = 
+        match transpose m with
+        M mt -> 
+            let max = (List.map (fun x -> (List.fold_left (+) 0 x)) mt) 
+            in List.find (fun x -> (List.for_all (fun y -> x >= y) max ) ) max;; 
+
+
+    let ( ** ) m1 m2  = 
+        let rec rpc r m2 = 
+            match r, m2 with
+            r, M (y::ys) -> List.fold_left (+) 0 (List.map2 (fun a b -> a * b) r y) :: rpc r (M ys)
+            | _ -> []
+        in let rec ( ** ) m1 m2 = 
+            match m1 with
+            M (x::xs) ->  rpc x (transpose m2) :: (M xs) ** m2
+            | _ -> []
+        in M (m1 ** m2);;
 
 end;;   
