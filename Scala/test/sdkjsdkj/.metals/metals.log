@@ -1,0 +1,62 @@
+INFO  time: initialize in 0.51s
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+INFO  no build target: using presentation compiler with only scala-library
+Jan 08, 2020 11:52:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jan 08, 2020 11:52:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jan 08, 2020 11:52:16 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Jan 08, 2020 11:58:45 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 08, 2020 11:58:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: no context found for source-file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala,line-1,offset=49
+scala.reflect.internal.FatalError: no context found for source-file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala,line-1,offset=49
+	at scala.tools.nsc.interactive.CompilerControl.$anonfun$doLocateContext$1(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext(CompilerControl.scala:100)
+	at scala.tools.nsc.interactive.CompilerControl.doLocateContext$(CompilerControl.scala:99)
+	at scala.tools.nsc.interactive.Global.doLocateContext(Global.scala:113)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:94)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj/asd.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/test/sdkjsdkj'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnoldc.scala
+WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnoldc.scala
+INFO  shutting down Metals
