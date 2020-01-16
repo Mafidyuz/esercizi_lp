@@ -878,3 +878,1550 @@ WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/a
 WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnoldc.scala
 WARN  no build target: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnoldc.scala
 INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'
+INFO  time: initialize in 0.5s
+WARN  resetting database: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/.metals/metals.h2.db
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Array[<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 149, 149, 164)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Array[<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 149, 149, 157)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Array[<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 149, 149, 158)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Array[<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 149, 149, 160)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Array[String]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 149, 149, 162)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Array[String]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 149, 149, 162)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Array[String]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 149, 149, 162)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+Jan 14, 2020 2:15:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 352
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+Jan 14, 2020 2:24:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1527
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+Jan 14, 2020 2:25:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1773
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Map[String,<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 121, 121, 141)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Map[String,<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 121, 121, 142)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Map[String,<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 121, 121, 141)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Map[String,<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 121, 121, 142)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Map[String,<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 121, 121, 135)
+Jan 14, 2020 2:28:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2103
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Map[String,Int]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 121, 121, 137)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Map[String,Int]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 121, 121, 137)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Map[String,Int]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 121, 121, 137)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in Map[String,Int]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 121, 121, 137)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in scala.collection.mutable.Stack[<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 189, 197, 212)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in scala.collection.mutable.Stack[<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 189, 197, 205)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala in scala.collection.mutable.Stack[Int]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala, 189, 197, 207)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+Jan 14, 2020 3:00:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4884
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/es_1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/brainfuck1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Jan 14, 2020 3:42:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7933
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+Jan 14, 2020 3:45:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8482
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala in Array[String]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala, 293, 293, 306)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+Jan 14, 2020 3:59:34 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+Jan 14, 2020 4:06:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10238
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+Jan 14, 2020 4:54:56 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:474)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:55:00 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:474)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:55:02 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:474)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+Jan 14, 2020 4:55:50 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:474)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:55:50 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:474)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:55:51 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:474)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:55:51 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:474)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:55:52 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:474)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+Jan 14, 2020 4:56:00 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:474)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:56:03 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:56:03 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:56:03 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+Jan 14, 2020 4:56:32 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:56:32 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 14, 2020 4:56:33 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1810)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1801)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1460)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala in Array[String]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala, 851, 851, 864)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16/arnold1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/brainfuck1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/brainfuck.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/brainfuck.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala in Map[String,<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala, 217, 217, 237)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala in Map[String,<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala, 217, 217, 238)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala in Map[String,<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala, 217, 217, 231)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala in Map[String,<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala, 217, 217, 232)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala in Map[String,Any]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala, 217, 217, 233)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala in Map[String,<error>]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala, 217, 217, 818)
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala in Map[String,Any]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala, 217, 217, 233)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala in Map[String,Any]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala, 249, 249, 265)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+Jan 15, 2020 12:24:09 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:634)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1443)
+	at scala.meta.internal.pc.Completions.fromIdentApply$1(Completions.scala:418)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:436)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 15, 2020 12:24:09 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:634)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1443)
+	at scala.meta.internal.pc.Completions.fromIdentApply$1(Completions.scala:418)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:436)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 15, 2020 12:24:09 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:634)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1443)
+	at scala.meta.internal.pc.Completions.fromIdentApply$1(Completions.scala:418)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:436)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 15, 2020 12:24:17 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:634)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1443)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 15, 2020 12:24:17 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:634)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1443)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 15, 2020 12:24:17 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:634)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1443)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+Jan 15, 2020 12:24:32 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:634)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1443)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 15, 2020 12:24:32 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:634)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1443)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 15, 2020 12:24:32 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.MetalsGlobal.metalsSeenFromType(MetalsGlobal.scala:634)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1443)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:480)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:404)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:396)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:381)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:25)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:413)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:51)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:91)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:120)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:77)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:198)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:101)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+Jan 15, 2020 2:04:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18622
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/test/marioC/marioc.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+Jan 15, 2020 3:57:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20075
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala in List[Any]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala, 195, 195, 204)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+something's wrong: no file:///home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala in List[Any]RangePosition(file:///home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala, 194, 194, 203)
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/expr1.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/opcolonna.scala
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/lab_2/brainfuck1.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.0 in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'
+INFO  time: initialize in 0.52s
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/mario/Desktop/LP/esercizi_lp/Scala/esami/Luglio16/wtf3.scala
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/mario/Desktop/LP/esercizi_lp/Scala/esami/Giugno16'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 

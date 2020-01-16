@@ -25,12 +25,6 @@ class BrainFuck(cells: Array[Byte]) extends JavaTokenParsers {
     def spuriousStr = "[^<>+-\\.,\\[\\]]+".r ^^ {x => ""}
 }
 
-at scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:222)
-at scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:222)
-at scala.util.parsing.combinator.Parsers$Success.flatMapWithNext(Parsers.scala:143)
-at scala.util.parsing.combinator.Parsers$Parser.$anonfun$flatMap$1(Parsers.scala:239)
-at scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:222)
-at scala.util.parsing.combinator.Parsers$Parser.$anonfun
 val parser = new BrainFuck(new Array[Byte](30000))
 
 //val input = """[<++[<+<+]<+++<]"""
